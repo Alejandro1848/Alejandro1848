@@ -56,7 +56,7 @@
 
 <p align="center">
 
-
+<a href="https://www.linkedin.com/in/alejandro-ju%C3%A1rez-toribio-8347b3199/"><img alt="LinkedIn" src="https://www.linkedin.com/in/alejandro-ju%C3%A1rez-toribio-8347b3199/"></a>
 
 <a href="hthttps://www.instagram.com/i_am_alex117/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i_am_alex117-black?style=flat-square&logo=instagram"></a>
 
