@@ -1,4 +1,4 @@
-### print('Hola todo el mundo :D') 👋<h2> I'm Shivam</h2>
+### print('Hola todo el mundo :D') 👋<h2> Soy Alejandro J.T</h2>
 
 
 
@@ -60,7 +60,7 @@
 
 <a href="hthttps://www.instagram.com/i_am_alex117/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i_am_alex117-black?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:shivammalpani111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:alex.fis.uam@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alex.fis.uam@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
@@ -68,7 +68,7 @@
 
 
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Alejandro1848.Alejandro1848)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
 
