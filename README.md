@@ -56,7 +56,7 @@
 
 <p align="center">
   
-  <a href="https://www.linkedin.com/in/alejandro-ju%C3%A1rez-toribio-8347b3199/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ju%C3%A1rez_Toribio%20Alejandro-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/alejandro-ju%C3%A1rez-toribio-8347b3199/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alejandro%20Ju%C3%A1rez_Toribio-blue?style=flat-square&logo=linkedin"></a>
 
 
 
