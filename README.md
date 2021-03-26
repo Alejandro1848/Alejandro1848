@@ -14,17 +14,11 @@
 
 - 🌱 &nbsp; Aprendiendo Java y C y  desarrollo de videojuegos en Unreal.
 
+- 💻 &nbsp; Python | Fortran | Mathematica | 
 
 
 
 
-
-
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
-
-
-
--->
 
 
 
