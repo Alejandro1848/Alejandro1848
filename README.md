@@ -4,27 +4,26 @@
 
 <img align='right' src="https://cdn.ageofempires.com/aoe-forums/original/3X/f/3/f32549d4a7b4981bef8331e8f20cf0f20b5fae63.gif" width="230">
 
-<h3> 👨🏻•💻 Acerca de mi: </h3>
+<h3>🏻•💻 Acerca de mi: </h3>
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Explorando nuevas formas de usar recursos informáticos para resolver problemas de las ciencias naturales.
 
-- 🎓 &nbsp;  Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp;  Estudiante de Maestría en Física por la UAM-Iztapalapa.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Aprendiendo Java y C#.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-
+- ✍️ &nbsp; En mi tiempo libre estoy aprendiendo desarrollo de videojuegos en Unreal.
 
 
 <h3>🛠 Tech Stack</h3>
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 💻 &nbsp; Python | Fortran | Mathematica |
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+** - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 
 <!--
 
