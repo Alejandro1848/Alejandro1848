@@ -30,7 +30,7 @@
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/Alejandro1848/Alejandro1848)
+[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alejandro1848&show_icons=true)](https://github.com/Alejandro1848/Alejandro1848)
 
 <br/>
 
