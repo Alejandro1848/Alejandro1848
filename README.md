@@ -12,7 +12,7 @@
 
 - 🎓 &nbsp;  Estudiante de Maestría en Física por la UAM-Iztapalapa.
 
-- 🌱 &nbsp; Aprendiendo Java y C y  desarrollo de videojuegos en Unreal.
+- 🌱 &nbsp; Aprendiendo Java , C# y  desarrollo de videojuegos en Unreal.
 
 - 💻 &nbsp; Python | Fortran | Mathematica | 
 
