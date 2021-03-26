@@ -4,7 +4,7 @@
 
 <img align='right' src="https://cdn.ageofempires.com/aoe-forums/original/3X/f/3/f32549d4a7b4981bef8331e8f20cf0f20b5fae63.gif" width="230">
 
-<h3>🏻•💻 Acerca de mi: </h3>
+<h3>•💻 Acerca de mi: </h3>
 
 
 
