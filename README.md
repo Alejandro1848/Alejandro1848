@@ -22,23 +22,13 @@
 
 - 💻 &nbsp; Python | Java | C++ | C | MySQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 
-<!--
-
-- 🛢 &nbsp; MySQL | MongoDB
-
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
 
 -->
 
 
 
-<h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
 
 <hr>
 
