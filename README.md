@@ -2,15 +2,15 @@
 
 
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://cdn.ageofempires.com/aoe-forums/original/3X/f/3/f32549d4a7b4981bef8331e8f20cf0f20b5fae63.gif" width="230">
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 👨🏻•💻 Acerca de mi: </h3>
 
 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp;  Science and Engineering at IIIT Vadodara and coding stuffs.
 
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 
