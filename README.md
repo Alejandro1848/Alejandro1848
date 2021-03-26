@@ -36,7 +36,7 @@
 
 <br/>
 
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+<img src="https://2.bp.blogspot.com/-1BRCSxB4xII/V3MWIpP-E5I/AAAAAAAAAA4/qmouvWhRGfsFoqGgPb06bryonTmiJ_9XwCLcB/s1600/24566.gif" width="350" align='right'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro1848&show_icons=true)
 
