@@ -12,9 +12,8 @@
 
 - 🎓 &nbsp;  Estudiante de Maestría en Física por la UAM-Iztapalapa.
 
-- 🌱 &nbsp; Aprendiendo Java y C#.
+- 🌱 &nbsp; Aprendiendo Java y C y  desarrollo de videojuegos en Unreal.
 
-- ✍️ &nbsp; En mi tiempo libre estoy aprendiendo desarrollo de videojuegos en Unreal.
 
 
 <h3>🛠 Tech Stack</h3>
@@ -27,21 +26,11 @@
 
 <!--
 
-- 🛢 &nbsp; MySQL | MongoDB
-
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
--->
 
 
 
-<h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
 
-<hr>
 
 
 
