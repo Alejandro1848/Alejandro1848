@@ -70,7 +70,7 @@
 
 
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Alejandro1848.Alejandro1848)   <img src="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fjesus-help-us-gifs&psig=AOvVaw0ZkorhP_KQWCsYx87fekbj&ust=1616875266687000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCw7vLfzu8CFQAAAAAdAAAAABAJ" width="30">
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Alejandro1848.Alejandro1848)   <img src="https://steamuserimages-a.akamaihd.net/ugc/925926525725525771/13393CC9B809B3698337A7C6329A0EC7D4EFDDB3/" width="30">
 
 
 
