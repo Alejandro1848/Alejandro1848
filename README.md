@@ -10,11 +10,11 @@
 
 - 🤔 &nbsp; Explorando nuevas formas de usar recursos informáticos para resolver problemas de las ciencias naturales.
 
-- 🎓 &nbsp;  Estudiante de Maestría en Física por la UAM-Iztapalapa.
+- 🎓 &nbsp;  M. en C. (Física) por la UAM-Iztapalapa.
 
-- 🌱 &nbsp; Aprendiendo Java , C# y  desarrollo de videojuegos en Unreal.
+- 🌱 &nbsp; Aprendiendo GCP y  desarrollo de videojuegos en Unreal.
 
-- 💻 &nbsp; Python | Fortran | Mathematica | 
+- 💻 &nbsp; Python| SQL |
 
 
 
