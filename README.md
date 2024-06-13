@@ -8,14 +8,13 @@
 
 
 
-- 🤔 &nbsp; Explorando nuevas formas de usar recursos informáticos para resolver problemas de las ciencias naturales.
+- 🤔 &nbsp; Data Scientist con 5 años de experiencia.
 
 - 🎓 &nbsp;  M. en C. (Física) por la UAM-Iztapalapa.
 
-- 🌱 &nbsp; Aprendiendo GCP y  desarrollo de videojuegos en Unreal.
+- 🌱 &nbsp; Aprendiendo Azure e investigando temas avanzados de ML constantemente.
 
-- 💻 &nbsp; Python| SQL |
-
+- 💻 &nbsp; Python| R| SQL | Julia | Fortran
 
 
 
