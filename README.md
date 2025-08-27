@@ -58,9 +58,6 @@
   <a href="https://www.linkedin.com/in/alejandro-ju%C3%A1rez-toribio-8347b3199/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alejandro%20Ju%C3%A1rez_Toribio-blue?style=flat-square&logo=linkedin"></a>
 
 
-
-<a href="hthttps://www.instagram.com/i_am_alex117/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i_am_alex117-black?style=flat-square&logo=instagram"></a>
-
 <a href="mailto:alex.fis.uam@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alex.fis.uam@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
